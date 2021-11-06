@@ -1,2 +1,2 @@
 # demo
-sum demo to run on git
+Demo text on git
